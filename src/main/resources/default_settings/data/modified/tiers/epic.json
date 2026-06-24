@@ -1,0 +1,8 @@
+{
+  "name": "epic",
+  "index": 3,
+  "baseWeight": 15.0,
+  "slots": 2,
+  "statMultiplier": 1.2,
+  "requiredXpLevel": 20
+}

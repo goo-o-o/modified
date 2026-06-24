@@ -1,0 +1,27 @@
+{
+  "name": "godly",
+  "index": 8,
+  "baseWeight": 0.1,
+  "slots": 5,
+  "statMultiplier": 1.45,
+  "requiredXpLevel": 45,
+  "renderRays": true,
+  "effects": [
+    {
+      "type": "goo_lib:color_gradient",
+      "colors": [
+        "#afecf0",
+        "#ffffb0",
+        "#afd393"
+      ],
+      "spread": 180.0,
+      "wave_speed": 0.3
+    },
+    {
+      "type": "goo_lib:wave",
+      "speed": 0.35,
+      "amplitude": 0.5,
+      "frequency": 0.05
+    }
+  ]
+}

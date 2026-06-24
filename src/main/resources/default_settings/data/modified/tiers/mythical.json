@@ -1,0 +1,30 @@
+{
+  "name": "mythical",
+  "index": 7,
+  "baseWeight": 0.5,
+  "slots": 4,
+  "statMultiplier": 1.4,
+  "requiredXpLevel": 40,
+  "renderRays": true,
+  "effects": [
+    {
+      "type": "goo_lib:color_gradient",
+      "colors": [
+        "#02c39a",
+        "#00f5d4",
+        "#00afb9"
+      ],
+      "spread": 180.0,
+      "wave_speed": 0.4
+    },
+    {
+      "type": "goo_lib:wave",
+      "speed": 0.35,
+      "amplitude": 0.5,
+      "frequency": 0.05
+    },
+    {
+      "type": "goo_lib:bloom"
+    }
+  ]
+}

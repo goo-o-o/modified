@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "minecraft:foot_armor"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.safe_fall_distance",
+      "value": 2,
+      "operation": "add_value"
+    }
+  ]
+}

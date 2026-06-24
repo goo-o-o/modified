@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "c:armors"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.15,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:player.submerged_mining_speed",
+      "value": 0.1,
+      "operation": "add_value"
+    }
+  ]
+}

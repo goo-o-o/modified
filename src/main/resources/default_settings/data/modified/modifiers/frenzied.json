@@ -1,0 +1,27 @@
+{
+  "tag_filters": [
+    "c:tools/melee_weapon"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": 0.5,
+      "operation": "add_multiplied_total"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.5,
+      "operation": "add_multiplied_total"
+    },
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": -3.0,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:generic.armor",
+      "value": -3.0,
+      "operation": "add_value"
+    }
+  ]
+}

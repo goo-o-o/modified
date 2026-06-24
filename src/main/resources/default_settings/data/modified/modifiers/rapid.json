@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:tools/ranged_weapon"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "goo_lib:draw_speed",
+      "value": 0.25,
+      "operation": "add_value"
+    }
+  ]
+}

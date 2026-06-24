@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "minecraft:pickaxes"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:player.mining_efficiency",
+      "value": 0.05,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.15,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}

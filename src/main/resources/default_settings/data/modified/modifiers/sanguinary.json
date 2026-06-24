@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "c:tools/melee_weapon"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "goo_lib:lifesteal",
+      "value": 0.05,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 1.0,
+      "operation": "add_value"
+    }
+  ]
+}

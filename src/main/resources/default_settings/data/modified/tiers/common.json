@@ -1,0 +1,11 @@
+{
+  "name": "common",
+  "tag_filters": [
+    "c:armors", "c:tools"
+  ],
+  "index": 0,
+  "baseWeight": 100.0,
+  "slots": 1,
+  "statMultiplier": 1.0,
+  "requiredXpLevel": 5
+}

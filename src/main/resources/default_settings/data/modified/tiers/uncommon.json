@@ -1,0 +1,8 @@
+{
+  "name": "uncommon",
+  "index": 1,
+  "baseWeight": 60.0,
+  "slots": 1,
+  "statMultiplier": 1.1,
+  "requiredXpLevel": 10
+}

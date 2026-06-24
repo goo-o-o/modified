@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:armors"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.gravity",
+      "value": -0.2,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}

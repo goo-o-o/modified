@@ -1,0 +1,8 @@
+{
+  "name": "unique",
+  "index": 4,
+  "baseWeight": 8.0,
+  "slots": 3,
+  "statMultiplier": 1.25,
+  "requiredXpLevel": 25
+}

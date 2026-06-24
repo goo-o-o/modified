@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:tools"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:player.mining_efficiency",
+      "value": 0.35,
+      "operation": "add_value"
+    }
+  ]
+}

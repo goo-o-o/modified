@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:melee"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.luck",
+      "value": 1,
+      "operation": "add_value"
+    }
+  ]
+}

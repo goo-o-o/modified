@@ -1,0 +1,16 @@
+{
+  "name": "legendary",
+  "index": 5,
+  "baseWeight": 4.0,
+  "slots": 3,
+  "statMultiplier": 1.3,
+  "requiredXpLevel": 30,
+  "effects": [
+    {
+      "type": "goo_lib:color_gradient",
+      "colors": ["#b26411", "#fad64a"],
+      "spread": 200.0,
+      "wave_speed": 0.35
+    }
+  ]
+}

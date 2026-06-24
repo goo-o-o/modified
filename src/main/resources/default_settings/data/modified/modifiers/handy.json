@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "minecraft:enchantable/sharp_weapon"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:player.entity_interaction_range",
+      "value": 1.0,
+      "operation": "add_value"
+    }
+  ]
+}

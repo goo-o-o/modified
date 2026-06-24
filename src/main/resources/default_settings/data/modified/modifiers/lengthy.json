@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "minecraft:swords"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:player.entity_interaction_range",
+      "value": 2.0,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "value": -0.15,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}

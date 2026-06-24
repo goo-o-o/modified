@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "minecraft:pickaxes"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:player.block_break_speed",
+      "value": 0.5,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.15,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}

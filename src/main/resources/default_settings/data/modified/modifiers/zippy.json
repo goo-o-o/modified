@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "c:tools"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:player.mining_efficiency",
+      "value": 0.1,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.2,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}

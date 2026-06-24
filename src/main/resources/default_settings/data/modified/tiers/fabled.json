@@ -1,0 +1,23 @@
+{
+  "name": "fabled",
+  "index": 6,
+  "baseWeight": 1.5,
+  "slots": 4,
+  "statMultiplier": 1.35,
+  "requiredXpLevel": 35,
+  "renderRays": true,
+  "effects": [
+    {
+      "type": "goo_lib:color_gradient",
+      "colors": [
+        "#f4c9fe",
+        "#bbfff9"
+      ],
+      "spread": 180.0,
+      "wave_speed": 0.4
+    },
+    {
+      "type": "goo_lib:foggy"
+    }
+  ]
+}

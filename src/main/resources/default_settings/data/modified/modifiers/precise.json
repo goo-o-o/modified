@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:tools/melee_weapon"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "goo_lib:critical_damage",
+      "value": 0.1,
+      "operation": "add_value"
+    }
+  ]
+}

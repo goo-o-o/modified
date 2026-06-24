@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "modified:block/reforging_anvil" },
+    "facing=south": { "model": "modified:block/reforging_anvil", "y": 180 },
+    "facing=west":  { "model": "modified:block/reforging_anvil", "y": 270 },
+    "facing=east":  { "model": "modified:block/reforging_anvil", "y": 90 }
+  }
+}

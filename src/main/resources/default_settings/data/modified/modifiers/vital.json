@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:armors"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 3.0,
+      "operation": "add_value"
+    }
+  ]
+}

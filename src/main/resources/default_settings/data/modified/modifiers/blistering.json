@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:tools/melee_weapon"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.attack_speed",
+      "value": 0.15,
+      "operation": "add_value"
+    }
+  ]
+}

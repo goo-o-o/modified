@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "minecraft:foot_armor"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "neoforge:swim_speed",
+      "value": 0.25,
+      "operation": "add_value"
+    }
+  ]
+}

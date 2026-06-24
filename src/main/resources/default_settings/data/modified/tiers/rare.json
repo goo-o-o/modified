@@ -1,0 +1,8 @@
+{
+  "name": "rare",
+  "index": 2,
+  "baseWeight": 35.0,
+  "slots": 2,
+  "statMultiplier": 1.15,
+  "requiredXpLevel": 15
+}

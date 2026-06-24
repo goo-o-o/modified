@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "minecraft:chest_armor"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.max_health",
+      "value": 4.0,
+      "operation": "add_value"
+    },
+    {
+      "attribute": "minecraft:generic.scale",
+      "value": 0.1,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}

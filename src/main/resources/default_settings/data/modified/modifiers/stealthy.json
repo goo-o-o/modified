@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "minecraft:leg_armor"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "neoforge:nametag_distance",
+      "value": -0.25,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}

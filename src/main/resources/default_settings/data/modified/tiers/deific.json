@@ -1,0 +1,31 @@
+{
+  "name": "deific",
+  "index": 9,
+  "baseWeight": 0.01,
+  "slots": 6,
+  "statMultiplier": 1.5,
+  "requiredXpLevel": 50,
+  "renderRays": true,
+  "effects": [
+    {
+      "type": "goo_lib:color_gradient",
+      "colors": [
+        "#FF5A5A",
+        "#FFB45A",
+        "#FFFF5A",
+        "#78FF78",
+        "#78FFFF",
+        "#7878FF",
+        "#9664FF",
+        "#FF64FF"
+      ],
+      "spread": 120.0,
+      "wave_speed": 0.5
+    },
+    {
+      "type": "goo_lib:shake",
+      "speed": 0.35,
+      "intensity": 0.8
+    }
+  ]
+}

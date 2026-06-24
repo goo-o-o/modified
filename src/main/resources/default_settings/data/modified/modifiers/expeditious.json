@@ -1,0 +1,17 @@
+{
+  "tag_filters": [
+    "c:armors"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:generic.movement_speed",
+      "value": 0.25,
+      "operation": "add_multiplied_total"
+    },
+    {
+      "attribute": "minecraft:generic.step_height",
+      "value": 0.5,
+      "operation": "add_value"
+    }
+  ]
+}

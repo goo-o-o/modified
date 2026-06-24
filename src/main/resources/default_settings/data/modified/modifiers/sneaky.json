@@ -1,0 +1,12 @@
+{
+  "tag_filters": [
+    "c:armors"
+  ],
+  "attribute_containers": [
+    {
+      "attribute": "minecraft:player.sneaking_speed",
+      "value": 0.25,
+      "operation": "add_multiplied_total"
+    }
+  ]
+}
